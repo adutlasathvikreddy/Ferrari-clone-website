@@ -19,5 +19,5 @@ ferrari-clone/
 ## 📸 Screenshots
 Website Replica:
 ![ferrari](https://github.com/user-attachments/assets/da045e6a-9d37-4240-9e9c-0873bc7e7712)
-![ferrari2](https://github.com/user-attachments/assets/d6da4d32-e40f-4594-bd7d-6f53cfcbc896)
+![ferrari2](https://github.com/user-attachments/assets/230d7a34-cefc-42ae-bf36-b761e68a9cdb)
 ![ferrari3](https://github.com/user-attachments/assets/b1b0a0f3-e9ff-47ba-8844-403fed539fed)
