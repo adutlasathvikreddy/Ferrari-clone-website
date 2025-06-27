@@ -1,6 +1,6 @@
 # Ferrari Website Clone 🚗
 
-A front-end clone of the official Ferrari website built using pure **HTML** and **CSS**, with a focus on responsive layout, elegant design, and brand-inspired styling.the panels contains videos with and immersive for better ui or ferrari diffent models videos.
+A front-end clone of the official Ferrari website built using pure **HTML** and **CSS**, with a focus on elegant design, and brand-inspired styling.the panels contains videos with and immersive for better ui or ferrari diffent models videos.
 
 ## 💡 Features
 
